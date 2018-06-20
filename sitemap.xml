@@ -3,191 +3,191 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.commonplace.world/about/contact/</loc>
+    <loc>https://commonplace.world/about/contact/</loc>
     <lastmod>2018-04-08T09:16:58-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/about/hugo/</loc>
+    <loc>https://commonplace.world/about/hugo/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/post/syntax-highlighting/</loc>
+    <loc>https://commonplace.world/post/syntax-highlighting/</loc>
     <lastmod>2018-03-10T17:23:09-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/about/</loc>
+    <loc>https://commonplace.world/about/</loc>
     <lastmod>2018-03-07T02:16:58-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/project/hugo-smorg/</loc>
+    <loc>https://commonplace.world/project/hugo-smorg/</loc>
     <lastmod>2018-03-07T02:16:58-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/project/blorg-bread-machine/</loc>
+    <loc>https://commonplace.world/project/blorg-bread-machine/</loc>
     <lastmod>2018-03-03T09:17:17-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/</loc>
+    <loc>https://commonplace.world/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/project/xyz-1000/</loc>
+    <loc>https://commonplace.world/project/xyz-1000/</loc>
     <lastmod>2018-02-01T00:00:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/401/</loc>
+    <loc>https://commonplace.world/401/</loc>
     <lastmod>2017-03-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/post/creating-a-new-theme/</loc>
+    <loc>https://commonplace.world/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/post/goisforlovers/</loc>
+    <loc>https://commonplace.world/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/post/hugoisforlovers/</loc>
+    <loc>https://commonplace.world/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/post/migrate-from-jekyll/</loc>
+    <loc>https://commonplace.world/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/tags/bulma/</loc>
+    <loc>https://commonplace.world/tags/bulma/</loc>
     <lastmod>2018-03-07T02:16:58-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/categories/</loc>
+    <loc>https://commonplace.world/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/tags/dev/</loc>
+    <loc>https://commonplace.world/tags/dev/</loc>
     <lastmod>2018-03-10T17:23:09-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/categories/development/</loc>
+    <loc>https://commonplace.world/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/tags/development/</loc>
+    <loc>https://commonplace.world/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/categories/examplesite/</loc>
+    <loc>https://commonplace.world/categories/examplesite/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/tags/go/</loc>
+    <loc>https://commonplace.world/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/categories/golang/</loc>
+    <loc>https://commonplace.world/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/tags/howto/</loc>
+    <loc>https://commonplace.world/tags/howto/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/categories/hugo/</loc>
+    <loc>https://commonplace.world/categories/hugo/</loc>
     <lastmod>2018-03-10T17:23:09-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/tags/hugo/</loc>
+    <loc>https://commonplace.world/tags/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/tags/iot/</loc>
+    <loc>https://commonplace.world/tags/iot/</loc>
     <lastmod>2018-03-03T09:17:17-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/post/</loc>
+    <loc>https://commonplace.world/post/</loc>
     <lastmod>2018-03-10T17:23:09-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/categories/products/</loc>
+    <loc>https://commonplace.world/categories/products/</loc>
     <lastmod>2018-03-03T09:17:17-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/project/</loc>
+    <loc>https://commonplace.world/project/</loc>
     <lastmod>2018-03-07T02:16:58-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/tags/recycling/</loc>
+    <loc>https://commonplace.world/tags/recycling/</loc>
     <lastmod>2018-03-03T09:17:17-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/tags/</loc>
+    <loc>https://commonplace.world/tags/</loc>
     <lastmod>2018-03-07T02:16:58-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/tags/templates/</loc>
+    <loc>https://commonplace.world/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/tags/theme/</loc>
+    <loc>https://commonplace.world/tags/theme/</loc>
     <lastmod>2018-03-07T02:16:58-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/tags/themes/</loc>
+    <loc>https://commonplace.world/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.commonplace.world/tags/tips/</loc>
+    <loc>https://commonplace.world/tags/tips/</loc>
     <lastmod>2018-03-10T17:23:09-08:00</lastmod>
     <priority>0</priority>
   </url>

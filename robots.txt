@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /secretloginpage
 
-Sitemap: http://www.commonplace.world/sitemap.xml
+Sitemap: https://commonplace.world/sitemap.xml

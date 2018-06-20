@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on CommonPlace.world</title>
-    <link>http://www.commonplace.world/categories/</link>
+    <link>https://commonplace.world/categories/</link>
     <description>Recent content in Categories on CommonPlace.world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; CommonPlace.world</copyright>
     
-	<atom:link href="http://www.commonplace.world/categories/rss.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://commonplace.world/categories/rss.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>http://www.commonplace.world/categories/development/</link>
+      <link>https://commonplace.world/categories/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.commonplace.world/categories/development/</guid>
+      <guid>https://commonplace.world/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Examplesite</title>
-      <link>http://www.commonplace.world/categories/examplesite/</link>
+      <link>https://commonplace.world/categories/examplesite/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.commonplace.world/categories/examplesite/</guid>
+      <guid>https://commonplace.world/categories/examplesite/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>http://www.commonplace.world/categories/golang/</link>
+      <link>https://commonplace.world/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.commonplace.world/categories/golang/</guid>
+      <guid>https://commonplace.world/categories/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>http://www.commonplace.world/categories/hugo/</link>
+      <link>https://commonplace.world/categories/hugo/</link>
       <pubDate>Sat, 10 Mar 2018 17:23:09 -0800</pubDate>
       
-      <guid>http://www.commonplace.world/categories/hugo/</guid>
+      <guid>https://commonplace.world/categories/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Products</title>
-      <link>http://www.commonplace.world/categories/products/</link>
+      <link>https://commonplace.world/categories/products/</link>
       <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
       
-      <guid>http://www.commonplace.world/categories/products/</guid>
+      <guid>https://commonplace.world/categories/products/</guid>
       <description></description>
     </item>
     

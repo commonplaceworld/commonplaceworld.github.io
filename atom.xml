@@ -1,15 +1,15 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>hugo-smorg on CommonPlace.world</title>
-	<link href="http://www.commonplace.world/atom.xml" rel="self"/>
-	<link href="http://www.commonplace.world/"/>
+	<link href="https://commonplace.world/atom.xml" rel="self"/>
+	<link href="https://commonplace.world/"/>
 	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
 	<updated>2018-03-01T00:00:00+00:00</updated>
-	<id>http://www.commonplace.world/</id>
+	<id>https://commonplace.world/</id>
   <entry>
 	<title>Contact Us</title>
-    <link href="http://www.commonplace.world/about/contact/"/>
-	<id>http://www.commonplace.world/about/contact/</id>
+    <link href="https://commonplace.world/about/contact/"/>
+	<id>https://commonplace.world/about/contact/</id>
     <published>2018-04-08T09:16:58-08:00</published>
     <updated>2018-04-08T09:16:58-08:00</updated>
 	<content type="html"><![CDATA[
@@ -19,8 +19,8 @@ We are a little busy exploring space right now; we&rsquo;ll get back to you when
 	
   <entry>
 	<title>This Theme</title>
-    <link href="http://www.commonplace.world/about/hugo/"/>
-	<id>http://www.commonplace.world/about/hugo/</id>
+    <link href="https://commonplace.world/about/hugo/"/>
+	<id>https://commonplace.world/about/hugo/</id>
     <published>2018-03-01T00:00:00+00:00</published>
     <updated>2018-03-01T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -31,8 +31,8 @@ See the project page: https://github.com/solutionroute/hugo-smorg, and
 	
   <entry>
 	<title>Syntax Highlighting</title>
-    <link href="http://www.commonplace.world/post/syntax-highlighting/"/>
-	<id>http://www.commonplace.world/post/syntax-highlighting/</id>
+    <link href="https://commonplace.world/post/syntax-highlighting/"/>
+	<id>https://commonplace.world/post/syntax-highlighting/</id>
     <published>2018-03-10T17:23:09-08:00</published>
     <updated>2018-03-10T17:23:09-08:00</updated>
 	<content type="html"><![CDATA[
@@ -45,8 +45,8 @@ Inline code looks like <code>this-&gt;var</code> and <code>expand($flurb, $times
 	
   <entry>
 	<title>Hugo Bulma Powered Blog Theme: Hugo-Smorg</title>
-    <link href="http://www.commonplace.world/project/hugo-smorg/"/>
-	<id>http://www.commonplace.world/project/hugo-smorg/</id>
+    <link href="https://commonplace.world/project/hugo-smorg/"/>
+	<id>https://commonplace.world/project/hugo-smorg/</id>
     <published>2018-03-07T02:16:58-08:00</published>
     <updated>2018-03-07T02:16:58-08:00</updated>
 	<content type="html"><![CDATA[
@@ -59,8 +59,8 @@ mobile-first, <a href="https://bulma.io/">Bulma</a>-powered, reasonably minimali
 	
   <entry>
 	<title>Blorg Bread Baker</title>
-    <link href="http://www.commonplace.world/project/blorg-bread-machine/"/>
-	<id>http://www.commonplace.world/project/blorg-bread-machine/</id>
+    <link href="https://commonplace.world/project/blorg-bread-machine/"/>
+	<id>https://commonplace.world/project/blorg-bread-machine/</id>
     <published>2018-03-03T09:17:17-08:00</published>
     <updated>2018-03-03T09:17:17-08:00</updated>
 	<content type="html"><![CDATA[
@@ -70,8 +70,8 @@ The hand-crafted Blorg Bread Baker&trade; enhances any kitchen. Produced from 10
 	
   <entry>
 	<title>XYZ 1000 Replicator</title>
-    <link href="http://www.commonplace.world/project/xyz-1000/"/>
-	<id>http://www.commonplace.world/project/xyz-1000/</id>
+    <link href="https://commonplace.world/project/xyz-1000/"/>
+	<id>https://commonplace.world/project/xyz-1000/</id>
     <published>2018-02-01T00:00:00-08:00</published>
     <updated>2018-02-01T00:00:00-08:00</updated>
 	<content type="html"><![CDATA[
@@ -82,8 +82,8 @@ Features  It&rsquo;s like having your own personal chef from 1,783,482,482 (and 
 	
   <entry>
 	<title>401 Unauthorized</title>
-    <link href="http://www.commonplace.world/401/"/>
-	<id>http://www.commonplace.world/401/</id>
+    <link href="https://commonplace.world/401/"/>
+	<id>https://commonplace.world/401/</id>
     <published>2017-03-23T00:00:00+00:00</published>
     <updated>2017-03-23T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -94,8 +94,8 @@ You&rsquo;ve attempted to visit a section of the website reserved for authorized
 	
   <entry>
 	<title>Creating a New Theme</title>
-    <link href="http://www.commonplace.world/post/creating-a-new-theme/"/>
-	<id>http://www.commonplace.world/post/creating-a-new-theme/</id>
+    <link href="https://commonplace.world/post/creating-a-new-theme/"/>
+	<id>https://commonplace.world/post/creating-a-new-theme/</id>
     <published>2014-09-28T00:00:00+00:00</published>
     <updated>2014-09-28T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -105,8 +105,8 @@ Introduction This tutorial will show you how to create a simple theme in Hugo. I
 	
   <entry>
 	<title>(Hu)go Template Primer</title>
-    <link href="http://www.commonplace.world/post/goisforlovers/"/>
-	<id>http://www.commonplace.world/post/goisforlovers/</id>
+    <link href="https://commonplace.world/post/goisforlovers/"/>
+	<id>https://commonplace.world/post/goisforlovers/</id>
     <published>2014-04-02T00:00:00+00:00</published>
     <updated>2014-04-02T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -116,8 +116,8 @@ Hugo uses the excellent go html/template library for its template engine. It is 
 	
   <entry>
 	<title>Getting Started with Hugo</title>
-    <link href="http://www.commonplace.world/post/hugoisforlovers/"/>
-	<id>http://www.commonplace.world/post/hugoisforlovers/</id>
+    <link href="https://commonplace.world/post/hugoisforlovers/"/>
+	<id>https://commonplace.world/post/hugoisforlovers/</id>
     <published>2014-04-02T00:00:00+00:00</published>
     <updated>2014-04-02T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -128,8 +128,8 @@ Save it somewhere specific as we will be using it in the next step.
 	
   <entry>
 	<title>Migrate to Hugo from Jekyll</title>
-    <link href="http://www.commonplace.world/post/migrate-from-jekyll/"/>
-	<id>http://www.commonplace.world/post/migrate-from-jekyll/</id>
+    <link href="https://commonplace.world/post/migrate-from-jekyll/"/>
+	<id>https://commonplace.world/post/migrate-from-jekyll/</id>
     <published>2014-03-10T00:00:00+00:00</published>
     <updated>2014-03-10T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
