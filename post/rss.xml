@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; CommonPlace.world</copyright>
-    <lastBuildDate>Sat, 10 Mar 2018 17:23:09 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 22 Jun 2018 10:01:06 -0700</lastBuildDate>
     
 	<atom:link href="https://commonplace.world/post/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Effect of Collaboration is Exponential</title>
+      <link>https://commonplace.world/post/mynewpost/</link>
+      <pubDate>Fri, 22 Jun 2018 10:01:06 -0700</pubDate>
+      
+      <guid>https://commonplace.world/post/mynewpost/</guid>
+      <description>Welcome to CommonPlace.world! Thank you for checking us out. Our paths may be similar in certain fundamental ways as we explore a changing world—one that seems to be getting smaller in terms of our ability to communicate, yet one that&amp;rsquo;s expanding at the same time in terms of ideas and invention.</description>
+    </item>
     
     <item>
       <title>Syntax Highlighting</title>
