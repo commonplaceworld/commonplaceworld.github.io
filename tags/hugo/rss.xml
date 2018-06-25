@@ -14,19 +14,19 @@
     
     <item>
       <title>Creating a New Theme</title>
-      <link>https://commonplace.world/post/creating-a-new-theme/</link>
+      <link>https://commonplace.world/post/nix/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://commonplace.world/post/creating-a-new-theme/</guid>
+      <guid>https://commonplace.world/post/nix/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content.</description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://commonplace.world/post/hugoisforlovers/</link>
+      <link>https://commonplace.world/post/nix/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://commonplace.world/post/hugoisforlovers/</guid>
+      <guid>https://commonplace.world/post/nix/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.</description>
     </item>

@@ -14,10 +14,10 @@
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>https://commonplace.world/post/syntax-highlighting/</link>
+      <link>https://commonplace.world/post/nix/syntax-highlighting/</link>
       <pubDate>Sat, 10 Mar 2018 17:23:09 -0800</pubDate>
       
-      <guid>https://commonplace.world/post/syntax-highlighting/</guid>
+      <guid>https://commonplace.world/post/nix/syntax-highlighting/</guid>
       <description>&lt;p&gt;Code examples in different languagues to demonstrate syntax highlighting with
 the current &lt;a href=&#34;https://github.com/solutionroute/hugo-smorg&#34;&gt;hugo-smorg&lt;/a&gt; theme.
 Inline code looks like &lt;code&gt;this-&amp;gt;var&lt;/code&gt; and &lt;code&gt;expand($flurb, $times)&lt;/code&gt;.&lt;/p&gt;
