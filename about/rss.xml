@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; CommonPlace.world</copyright>
-    <lastBuildDate>Wed, 07 Mar 2018 02:16:58 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 25 Jun 2018 08:46:13 -0700</lastBuildDate>
     
 	<atom:link href="https://commonplace.world/about/rss.xml" rel="self" type="application/rss+xml" />
     
@@ -18,17 +18,8 @@
       <pubDate>Sun, 08 Apr 2018 09:16:58 -0800</pubDate>
       
       <guid>https://commonplace.world/about/contact/</guid>
-      <description>We are a little busy exploring space right now; we&amp;rsquo;ll get back to you when we return to this solar system.</description>
-    </item>
-    
-    <item>
-      <title>This Theme</title>
-      <link>https://commonplace.world/about/hugo/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://commonplace.world/about/hugo/</guid>
-      <description>Hugo-Smorg is a theme for Hugo, the blazingly fast super flexible static site engine.
-See the project page: https://github.com/solutionroute/hugo-smorg, and</description>
+      <description>Request an invite:
+aqumegeemail@gmail.com</description>
     </item>
     
   </channel>
